@@ -1,0 +1,15 @@
+body{
+text-align: center;    
+    background-color: coral;
+}
+h1{
+    font-family:fantasy;
+    font-size: 50px;
+}
+img{
+    width: 500px;
+}
+p{
+    font-family: fantasy;
+       font-size: 20px;
+}
